@@ -1,4 +1,4 @@
-# 📚 Bookstore Management System
+# 👨‍💼 Employee Management System
 
 ![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet)
 ![Angular](https://img.shields.io/badge/Angular-18-red)
