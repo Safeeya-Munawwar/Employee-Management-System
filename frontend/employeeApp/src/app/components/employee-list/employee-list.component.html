@@ -1,0 +1,9 @@
+<ion-list>
+  <ion-item *ngFor="let emp of employees">
+    <ion-label>
+      <h2>{{ emp.name }}</h2>
+      <p>{{ emp.email }} | {{ emp.position }} | ${{ emp.salary }}</p>
+    </ion-label>
+    <ion-button color="danger" (click)="deleteEmployee(emp.id!)">Delete</ion-button>
+  </ion-item>
+</ion-list>
