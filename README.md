@@ -33,7 +33,7 @@ This application allows admins to manage employee records efficiently, including
 
 ## 📸 Screenshot
 - EmployeeApi Swagget UI:
-![Employee](book-store-swagger.PNG)
+![Employee](emaployee-swagger.PNG)
 
 ---
 
